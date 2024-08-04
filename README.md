@@ -16,7 +16,7 @@ This repository contains the code for analyzing and predicting scores in T20 Wor
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/t20-world-cup-analysis.git
+    git clone https://github.com/vanshp17/t20-world-cup-analysis.git
     cd t20-world-cup-analysis
     ```
 
