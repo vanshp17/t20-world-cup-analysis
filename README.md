@@ -1,5 +1,7 @@
 # T20 World Cup Analysis
 
+![WhatsApp Image 2024-08-01 at 17 37 39_e445f009](https://github.com/user-attachments/assets/35cc2ee1-4baf-4156-bad9-4b54d0661226)
+
 This repository contains the code for analyzing and predicting scores in T20 World Cup matches using machine learning techniques. The project includes data collection, data extraction, feature extraction, and a Streamlit application for interactive predictions.
 
 ## Project Structure
