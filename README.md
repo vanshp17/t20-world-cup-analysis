@@ -1,7 +1,3 @@
-Sure, here’s the updated documentation without the requirements part:
-
----
-
 # T20 World Cup Analysis
 
 This repository contains the code for analyzing and predicting scores in T20 World Cup matches using machine learning techniques. The project includes data collection, data extraction, feature extraction, and a Streamlit application for interactive predictions.
@@ -65,7 +61,3 @@ Feel free to fork this repository and contribute by submitting pull requests. Fo
 ## License
 
 This project is licensed under the MIT License.
-
----
-
-You can adjust the repository URL, license, and any other specific details as needed. This documentation provides a clear overview and instructions for setting up and using your project without displaying all the underlying code.
