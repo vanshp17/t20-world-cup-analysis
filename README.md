@@ -7,7 +7,7 @@ This repository contains the code for analyzing and predicting scores in T20 Wor
 ## Project Structure
 
 - `app.py`: Streamlit application for predicting T20 scores.
-- `data_collection.ipynb`: Notebook for downloading and organizing the dataset.
+- `data-collection _T20 score prediction.ipynb`: Notebook for downloading and organizing the dataset.
 - `data_extraction.ipynb`: Notebook for extracting and preprocessing match data.
 - `feature_extraction.ipynb`: Notebook for creating features for the prediction model.
 - `style.css`: CSS file for styling the Streamlit app.
